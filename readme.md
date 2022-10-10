@@ -3,7 +3,7 @@
 
 ![badges](https://img.shields.io/badge/HTML-CSS-orange)
 
-## [Live Link](https://design-landing-page-web.netlify.app/)
+## [Live Link](https://devloper-web.netlify.app/)
 
 ### project name:Developer Landing Page with pure html and css
 ## Hy, there!!
