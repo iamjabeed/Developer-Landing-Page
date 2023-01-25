@@ -9,9 +9,8 @@
 ## Hy, there!!
 
 ### project Description
-```
-It is a mobile responsive Developer Landing Page. In this project i have learnd many thing while making these landing page especially about media query. 
-```
+It is a mobile responsive Developer Landing Page. In this project i have learnd many thing while making these landing page especially about media query.
+
 ## Technologies used:<br>
 HTML <br>
 CSS
